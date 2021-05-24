@@ -7,6 +7,9 @@ disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
+
+canonifyurls = true
+publishDir = "docs"
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
@@ -66,3 +69,4 @@ googleAnalytics = ""
   gitlab        = "full profile url in gitlab"
   youtube       = "full profile url in youtube"
   whatsapp      = "wa.me service link"
+
